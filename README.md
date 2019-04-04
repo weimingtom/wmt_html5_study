@@ -3,3 +3,4 @@ My HTML5 study
 
 ## Ref  
 * https://github.com/unlayer/react-email-editor  
+* https://jgraph.github.io/mxgraph/javascript/examples/grapheditor/www/index.html  
